@@ -7,10 +7,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "by894npd2tdfwgfl",
-    "password": "g6mko1am3jlshtp8",
+    "username": "gl62vk5gtk6j5n47",
+    "password": "h2re76b4pca8xpgk",
     "database": "burgers_seq",
-    "host": "y2w3wxldca8enczv.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "host": "icopoghru9oezxh8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "JawsDB"
   }
 }
