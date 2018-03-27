@@ -2,7 +2,7 @@
   "name": "burger",
   "version": "1.0.0",
   "description": "Create a burger app ",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -28,7 +28,8 @@
     "method-override": "^2.3.10",
     "mysql": "^2.15.0",
     "mysql2": "^1.5.2",
-    "sequelize": "^4.33.4"
+    "sequelize": "^4.37.4",
+    "sequelize-cli": "^4.0.0"
   },
   "devDependencies": {}
 }
