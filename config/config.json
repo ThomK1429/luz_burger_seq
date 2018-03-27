@@ -11,6 +11,6 @@
     "password": "h2re76b4pca8xpgk",
     "database": "burgers_seq",
     "host": "icopoghru9oezxh8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-    "dialect": "JawsDB"
+    "dialect": "mysql"
   }
 }
